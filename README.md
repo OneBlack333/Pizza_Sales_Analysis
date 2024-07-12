@@ -23,9 +23,10 @@ This repository contains the code and data for analyzing pizza sales using SQL S
 - Optimize menu, ingredients and marketing based on analysis.
 
 This dashboard in Power BI shows an overview of total sales, top pizzas sold and sales by Pizza type.
+![Screenshot 2024-07-11 210031](https://github.com/user-attachments/assets/c911dd61-825d-47f0-97d6-b9dc5d1ad3dd)
 ![Screenshot 2024-07-11 210055](https://github.com/user-attachments/assets/a341b4c8-086c-4571-a940-4d492ee60111)
 ![Screenshot 2024-07-11 210609](https://github.com/user-attachments/assets/0d1bcb8c-5572-4f22-97d2-f23591dae214)
-![Screenshot 2024-07-11 210031](https://github.com/user-attachments/assets/c911dd61-825d-47f0-97d6-b9dc5d1ad3dd)
+
 
 
 ## Analysis provides insights to:
