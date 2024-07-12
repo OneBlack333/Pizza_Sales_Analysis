@@ -23,10 +23,10 @@ This repository contains the code and data for analyzing pizza sales using SQL S
 - Optimize menu, ingredients and marketing based on analysis.
 
 This dashboard in Power BI shows an overview of total sales, top pizzas sold and sales by Pizza type.
-![Screenshot 2024-02-03 165956](https://github.com/DataVizExpert-Sham/Pizza-Shop-Sales-Analysis-SQL-Power-BI/assets/151017676/730b4954-811d-4ff7-a345-9d41338e5558)
-![Screenshot 2024-02-03 170157](https://github.com/DataVizExpert-Sham/Pizza-Shop-Sales-Analysis-SQL-Power-BI/assets/151017676/1f3f159f-0ab5-4b79-8db5-ee70ef4e440e)
-![Screenshot 2024-02-03 170045](https://github.com/DataVizExpert-Sham/Pizza-Shop-Sales-Analysis-SQL-Power-BI/assets/151017676/58302b24-33cc-4d7e-97ef-8f260e427f42)
-![Screenshot 2024-02-03 170024](https://github.com/DataVizExpert-Sham/Pizza-Shop-Sales-Analysis-SQL-Power-BI/assets/151017676/44fa341c-d8ae-42d5-8ac2-dbabf6d8e107)
+![Screenshot 2024-07-11 210055](https://github.com/user-attachments/assets/a341b4c8-086c-4571-a940-4d492ee60111)
+![Screenshot 2024-07-11 210609](https://github.com/user-attachments/assets/0d1bcb8c-5572-4f22-97d2-f23591dae214)
+![Screenshot 2024-07-11 210031](https://github.com/user-attachments/assets/c911dd61-825d-47f0-97d6-b9dc5d1ad3dd)
+
 
 ## Analysis provides insights to:
 - Improve menu options
