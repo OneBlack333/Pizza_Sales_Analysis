@@ -13,8 +13,8 @@ This repository contains the code and data for analyzing pizza sales using SQL S
 - SQL Server Integration Services (SSIS) - To extract and transform data.
 - Power BI - Power Query to connect to SQL and Power BI reports for analysis.
 
-## SQL Server SSIS Queries File Contains SQL Queries and results screenshots:
-[Pizza Sales SQL Queries.docx](https://github.com/DataVizExpert-Sham/Pizza-Shop-Sales-Analysis-SQL-Power-BI/files/14177623/Pizza.Sales.SQL.Queries.docx)
+## MySQL Queries File Contains SQL Queries and results screenshots:
+[[Pizza Sales SQL Queries.docx](https://github.com/DataVizExpert-Sham/Pizza-Shop-Sales-Analysis-SQL-Power-BI/files/14177623/Pizza.Sales.SQL.Queries.docx)](https://github.com/OneBlack333/Pizza_Sales_Analysis/blob/main/pizza_sales_queries.sql)
 
 ## Benefits
 - Compare ETL techniques using SQL SSIS vs Power Query.
