@@ -4,7 +4,7 @@ This repository contains the code and data for analyzing pizza sales using MySQL
 ## Key Features
 - MySQL  to extract and transform data.
 - Power Query in Power BI to connect to MySQL and load data.
-- Compare results from MySQL SSIS vs Power Query.
+- Compare results from MySQL vs Power Query.
 - Power BI reports and dashboards to visualize sales trends and customer insights.
 - Insights into best selling pizzas, toppings, customer preferences and more.
 
