@@ -1,5 +1,7 @@
 # Pizza-Shop-Sales-Analysis-MySQL-Power-BI
-This repository contains the code and data for analyzing pizza sales using MySQL  as the data store and Power BI for data visualization and analysis. Explore sales trends, customer preferences, and more to gain insights into pizza sales using this repository.
+The project involves transforming raw pizza sales data into actionable business intelligence through analysis and visualization. This enables pizza business owners to make data-driven decisions on inventory, staffing, and marketing, ultimately improving performance and profitability.
+![image](https://github.com/user-attachments/assets/9ecdf4b5-0dd5-4428-a778-0a9bd63b4fda)
+
 
 ## Key Features
 - MySQL  to extract and transform data.
